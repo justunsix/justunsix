@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin Tung
-- 👀 I’m interested in infrastructure technologies - Microsoft Azure, Redhat Openshift, Kafka Debezium, Online Integrated Development Environments (IDE) like [Codespaces](https://github.com/features/codespaces) and [Gitpod](https://www.gitpod.io/)
+- 👀 I’m interested in DevOps and infrastructure technologies - Microsoft Azure, Redhat Openshift, Kafka Debezium, Online Integrated Development Environments (IDE) like [Codespaces](https://github.com/features/codespaces) and [Gitpod](https://www.gitpod.io/)
 - 🌱 I’m currently learning the above technologies
 - 💞️ I’m looking to volunteer on open source projects
 - 📫 [Contact me](https://justintung.com/contact/), [@justin_tung](https://twitter.com/justin_tung)
