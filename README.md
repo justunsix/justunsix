@@ -5,12 +5,13 @@
 ## Languages
 
 - Python
+- Shell (bash, PowerShell)
 
 ## Experience 👀 
 
 - IT Technology, Infrastructure Architecture
 - DevOps (Ansible, git)
-- Microsoft Azure, Entra ID, Power Platform (Apps, Automate, Copilot Studio), SQL Server, PowerShell
+- Microsoft Azure, Entra ID, Power Platform (Apps, Automate, Copilot Studio), SQL Server
 - Linux
 - IBM Redhat Openshift, Hashicorp Terraform, Vagrant, Packer
 
@@ -34,6 +35,8 @@
 
 - Rustlang
 - JavaScript
+- Emacs Lisp
+- HCL
 
 ### Software
 
