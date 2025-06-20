@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin Tung
 - 💞️ Open to volunteer on open source projects
- 📫 [Contact me](https://justintung.com/contact/), [@justin_tung](https://x.com/justin_tung)
+ 📫 [Contact me](https://justintung.com/contact/)
 
 ## Languages
 
