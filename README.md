@@ -29,7 +29,7 @@
 - Data Science, Artificial Intelligence
 - Hardware
 - Web accessibility
-- Unix (FreeBSD)
+- Linux, Unix (FreeBSD)
 
 ### Languages
 
