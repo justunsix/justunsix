@@ -6,13 +6,14 @@
 
 - Python
 - Shell (bash, PowerShell)
+- Rust
 
 ## Experience 👀 
 
 - IT Technology, Infrastructure Architecture
-- DevOps (Ansible, git)
+- DevOps (Ansible, git, Terraform)
 - Microsoft Azure, Entra ID, Power Platform (Apps, Automate, Copilot Studio), SQL Server
-- Linux
+- Linux / Windows
 - IBM Redhat Openshift, Hashicorp Terraform, Vagrant, Packer
 
 ### Other Work
@@ -30,13 +31,6 @@
 - Hardware
 - Web accessibility
 - Linux, Unix (FreeBSD)
-
-### Languages
-
-- Rustlang
-- JavaScript
-- Emacs Lisp
-- HCL
 
 ### Software
 
